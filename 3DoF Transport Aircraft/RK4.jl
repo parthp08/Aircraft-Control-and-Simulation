@@ -1,6 +1,6 @@
 export RK4
 
-function RK4(f, time::Float64, dt::Float64, xx::Array, u::Array)
+function RK4(f::Function, time::Float64, dt::Float64, xx::Array, u::Array)
     """
     fourth-order Runge-Kutta Algorithm
     
