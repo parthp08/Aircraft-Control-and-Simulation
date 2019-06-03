@@ -2,7 +2,7 @@ from numpy import array, linspace
 from control.matlab import *
 import matplotlib.pyplot as plt
 
-## this file is plotting the systems which are giving errors in Julia
+## this file is for plotting the systems which are giving errors in Julia
 ## particularly D!=0 Error in Simulation of Step
 
 num = array([1, 1.669292, 3.4649642142159998])
