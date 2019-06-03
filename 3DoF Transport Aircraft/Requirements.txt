@@ -15,4 +15,5 @@ Python (3.7.1)
     - numpy
     - matplotlib
     - control
+    - scipy
 
