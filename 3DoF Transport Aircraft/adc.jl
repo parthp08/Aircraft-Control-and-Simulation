@@ -1,6 +1,6 @@
 export adc
 
-function adc(vt, alt)
+function adc(vt::Float64, alt::Number)
     """
     compute atmospheric propeties from given altitude
 
