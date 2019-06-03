@@ -1,0 +1,18 @@
+Julia (1.1.0)
+    - ControlSystems
+    - Plots
+        - gr
+        - pyplot
+        - plotly
+    - LinearAlgebra
+    - DelimtedFiles
+    - Optim
+    - PyCall
+    - Conda
+        - scipy
+
+Python (3.7.1)
+    - numpy
+    - matplotlib
+    - control
+
